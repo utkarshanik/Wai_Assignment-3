@@ -95,6 +95,10 @@ body{
     }
 
     /* -----------------MAIN AREA------------------------- */
+    .mob p
+    {
+        font-weight: 400;
+    }
     .gri
     {
         font-size: 12px;
@@ -184,9 +188,6 @@ body{
 .page-item:first-child .page-link {
     border: none !important;
 }
-
-
-
 
 
 .hover-outline:hover {
