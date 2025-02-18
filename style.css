@@ -64,6 +64,7 @@ body{
     color: gray;
     font-weight: 300;
 }
+
 /* --------------------------Sidebar------------------------------ */
 
 .sidebar {
@@ -94,11 +95,19 @@ body{
         width: 30px;
         float: right;
     }
-
+    .card-size
+    {
+        width:18.8rem; 
+    }
     /* -----------------MAIN AREA------------------------- */
+    .mob
+    {
+        width: 35%;
+    }
     .mob p
     {
         font-weight: 400;
+        font-size: 17px;
     }
     .gri
     {
@@ -167,6 +176,7 @@ body{
     {
         height: 24px;
     }
+ 
 /* -----------------Pageignitaion------------------------ */
     .pp img
 {
@@ -174,7 +184,10 @@ body{
     border-radius: 50%; 
 
 }
-
+.pagee
+{
+    float: right;
+}
 .pageing a ,li
 {
     border-radius: 50%; 
